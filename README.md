@@ -108,5 +108,4 @@ LoRa_Node_Gen1-/
 ├── README.md                  # Project overview, specifications, and engineering summary
 ├── REPORTS/                   # Full Technical Report (.docx) and schematic exports (.pdf, .svg)
 ├── DOCUMENTATION/             # 3D renders, copper layer captures, and impedance calculator screenshots
-├── PRODUCTION_FILES/          # Fabrication Gerbers (.zip), BOM, CPL/positions, designators, and IPC netlist
 └── DATASHEETS/                # Reference datasheets (SX1262, 0900FM15K0039, PE4259, TPS7A20)
